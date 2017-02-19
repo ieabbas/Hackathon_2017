@@ -10,9 +10,9 @@ The goal of the game is to successfully shoot the moving and still memes.
 // Created and demoed at HackPoly 2017
 
 Team Members:
-Je'Don Roc Carter
-Ismail Abbas
-SueAnn Wang
+* Je'Don Roc Carter
+* Ismail Abbas
+* SueAnn Wang
 
 
 
