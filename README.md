@@ -1,6 +1,6 @@
 # HackPoly 2017: Meme Hunter
 
-A  virtual reality game utilizing the HTC Vive and developed with Unity 3D, Meme Hunter is a comical approach to exploring game mechanics in virtual reality as well as providing a true purpose for the player that will entertain and see the game to completion.
+A  virtual reality game utilizing the HTC Vive and developed with Unity 3D, Meme Hunter is a comical approach to exploring bow and arrow mechanics in virtual reality as well as providing a true purpose for the player of hunting memes that will entertain and see the game to completion.
 
 Version 1.0 : 2/11/17
 
